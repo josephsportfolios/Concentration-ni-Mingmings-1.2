@@ -1,6 +1,6 @@
 # Concentration ni Mingmings
 An adventure-filled game full of concentration questions to save Mingming's friends! <br />
-Created by @caitlin, @[daloosai](https://github.com/daloosai), @[JemimahAbalajon](https://github.com/JemimahAbalajon), @[josephsportfolios](https://github.com/josephsportfolios), @kathleen, and @[leyamm](https://github.com/leyamm).
+Created by @caitlin, @[daloosai](https://github.com/daloosai), @[JemimahAbalajon](https://github.com/JemimahAbalajon), @[josephsportfolios](https://github.com/josephsportfolios), @[Kath-Ganda](https://github.com/Kath-Ganda), and @[leyamm](https://github.com/leyamm).
 
 ## How to Install
 You can install this game by clicking on the Code drop-down menu and clicking the Download Zip option. 
